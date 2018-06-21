@@ -1,20 +1,24 @@
 PODS:
   - Alamofire (4.7.2)
+  - GSKStretchyHeaderView (1.0.4)
   - SwiftyJSON (4.1.0)
 
 DEPENDENCIES:
   - Alamofire (~> 4.7)
+  - GSKStretchyHeaderView
   - SwiftyJSON
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Alamofire
+    - GSKStretchyHeaderView
     - SwiftyJSON
 
 SPEC CHECKSUMS:
   Alamofire: e4fa87002c137ba2d8d634d2c51fabcda0d5c223
+  GSKStretchyHeaderView: 9743704c12bdc9cf7c7947bad3af8bf24f7061e3
   SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
 
-PODFILE CHECKSUM: 5cb997f99715a777e0198da2c15a10837753ba78
+PODFILE CHECKSUM: da9f4e44b160818a2e578d5cff5da371fc13a71d
 
 COCOAPODS: 1.5.3

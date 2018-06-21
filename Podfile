@@ -9,5 +9,6 @@ target 'Newsy' do
 
 pod 'Alamofire', '~> 4.7'
 pod 'SwiftyJSON'
+pod "GSKStretchyHeaderView"
 
 end
